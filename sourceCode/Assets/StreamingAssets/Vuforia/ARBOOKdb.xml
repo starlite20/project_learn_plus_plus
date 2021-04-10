@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Coronavirus" size="10.000000 5.625000" />
+    <ImageTarget name="caeser" size="10.000000 7.083333" />
+    <ImageTarget name="jallianwala" size="10.000000 5.625000" />
+    <ImageTarget name="heart" size="5.000000 4.287500" />
+    <ImageTarget name="watercycle" size="10.000000 6.117542" />
+  </Tracking>
+</QCARConfig>
