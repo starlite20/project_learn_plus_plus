@@ -1,7 +1,7 @@
 # Project Learn++
 A Prototype by Suhail
 
-[A Demo of the Prototype](https://www.youtube.com/watch?v=5PiiDw50RPw)
+[![Demo of the Prototype](https://img.youtube.com/vi/5PiiDw50RPw/0.jpg)](https://www.youtube.com/watch?v=5PiiDw50RPw)
 
 #Table of Contents
 * [Summary](#summary)
