@@ -1,12 +1,16 @@
 # Project Learn++
 A Prototype by Suhail
 
-[![Demo of the Prototype](https://img.youtube.com/vi/5PiiDw50RPw/0.jpg)](https://www.youtube.com/watch?v=5PiiDw50RPw)
-
 #Table of Contents
+* [Demo Video](#demo)
 * [Summary](#summary)
 * [Technologies](#technologies)
 * [Setup](#Setup)
+
+
+#Demo
+[![Demo of the Prototype](https://img.youtube.com/vi/5PiiDw50RPw/0.jpg)](https://www.youtube.com/watch?v=5PiiDw50RPw)
+*:point_up_2: Click here to watch the demo :point_up_2:
 
 ##Summary
 An Interactive Learning Method using Augmented Reality and Gamification Concepts, The concept of improvising the outdated education methods, to create a better and fun learning environment in such a way that it matches the mindset of the current generation, and at the same time, giving them more opportunities to explore.
